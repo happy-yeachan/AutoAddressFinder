@@ -1,6 +1,6 @@
 
 # Excel Address Tool
-
+<img width="1312" alt="스크린샷 2025-01-02 오전 8 13 06" src="https://github.com/user-attachments/assets/ba72edf0-5646-4fa2-a764-4a1e64ded159" />
 `Excel Address Tool`은 주소 데이터를 관리하고, 사용자 친화적인 UI를 통해 주소 검색, 수정, 삭제, 및 엑셀 파일로 데이터를 내보내는 기능을 제공하는 데스크탑 애플리케이션입니다. PyQt6와 SQLite를 사용하여 개발되었습니다.
 
 ## 주요 기능
@@ -80,10 +80,6 @@ python main.py
   - `name`: 이름
   - `phone`: 전화번호
   - `address`: 주소
-
-## 스크린샷
-
-<img width="1312" alt="스크린샷 2025-01-02 오전 8 13 06" src="https://github.com/user-attachments/assets/ba72edf0-5646-4fa2-a764-4a1e64ded159" />
 
 ## 기술 스택
 
